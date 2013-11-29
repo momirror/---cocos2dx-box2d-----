@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the '篮球-cocos2dx-box2d' target in the '篮球-cocos2dx-box2d' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
